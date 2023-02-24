@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include cpanel/static *
+recursive-include cpanel/templates *
